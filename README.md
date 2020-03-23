@@ -1,7 +1,7 @@
 ## Demo Day Draft
 
 
-![ screenshot of application](https://github.com/asiahbennettdev/Demo-day-draft-one/blob/master/sc2.png)
+![ screenshot of application](https://github.com/asiahbennettdev/Demo-day-draft-one/blob/master/public/img/herbs.png)
 
 ## Installation
 
