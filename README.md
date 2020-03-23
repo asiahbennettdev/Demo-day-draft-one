@@ -1,3 +1,8 @@
+## Demo Day Draft
+
+
+![ screenshot of application](https://github.com/asiahbennettdev/Demo-day-draft-one/blob/master/sc2.png)
+
 ## Installation
 
 1. Clone repo
