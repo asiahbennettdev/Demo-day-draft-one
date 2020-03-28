@@ -5,6 +5,8 @@ This is a cannabis recipe web application. Optimizations include user ability to
 
 
 ![ screenshot of application](https://github.com/asiahbennettdev/Demo-day-draft-one/blob/master/public/img/herbs.png)
+![ screenshot of application](https://github.com/asiahbennettdev/Demo-day-draft-one/blob/master/public/img/logo.png)
+
 
 ## Installation
 
